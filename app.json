@@ -1,0 +1,17 @@
+{
+    "name": "Arnav Mention",
+    "description": "Arnav Mention Is Telegram Advanced Bot To Mention All Members In Group.",
+    "logo": "https://te.legra.ph/file/98f485b36e48557068079.jpg",
+    "env": {
+        "TOKEN": {
+            "description": "Enter bot token."
+        },
+        "APP_ID": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        },
+        "API_HASH": {
+            "description": "Get this value from my.telegram.org! Please do not steal."
+        }
+    },
+    "buildpacks": [{"url": "heroku/python"}]
+}
